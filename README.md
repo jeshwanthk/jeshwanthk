@@ -56,15 +56,15 @@
 <h3 style="text-align: center;">Connect with me:</h3>
 
 <div style="display: flex; justify-content: center; gap: 15px; align-items: center; margin-top: 10px;">
-  <a href="mailto:rsivanesan285gmail.com" target="_blank">
+  <a href="mailto:jeshwanthlinks@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/sivanesan-ravichandran" target="_blank">
+  <a href="https://www.linkedin.com/in/jeshwanth-k/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/sivanesh_ravi/" target="_blank">
+  <!-- <a href="https://www.instagram.com/sivanesh_ravi/" target="_blank">
       <img src="https://skillicons.dev/icons?i=instagram" />  
-  </a>
+  </a> -->
 </div>
 
 </div></h4>
@@ -75,8 +75,8 @@
 <h3 align="center">🌱 Github Status</h3>
 
 <div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=sivanesan-r&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=sivanesan-r&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=jeshwanthk&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=jeshwanthk&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
 </div>
 
 <br/><br/>
