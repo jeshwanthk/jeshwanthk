@@ -1,97 +1,21 @@
-
-<!-- MasterHead -->
-
-
-<img src="https://github.com/Sivanesan-R/Sivanesan-R/blob/main/Japanese%20Wheat%20Field.gif" height="300" width="1000" >
+# 💫 About Me:
+Based on your resume, here's a quick intro:<br><br>**Jeshwanth K** is a B.Tech graduate in Artificial Intelligence and Machine Learning from Hindusthan College of Engineering and Technology, Coimbatore, with a CGPA of 8.43. He has hands-on internship experience in both AI model development at Ether Infotech and web development at Nitrowave Technologies.<br><br>He is proficient in Python, Java, SQL, Scikit-learn, and NLP, and has independently built and deployed two end-to-end ML projects — a Sales & Inventory Prediction System (~88% accuracy) and an AI-Based Sentiment Analysis tool (90%+ accuracy). He also holds three IBM certifications in Python, Java, and Data Visualisation.<br><br>He is currently seeking an entry-level AI/ML or software engineering role focused on data-driven solutions.<br>
 
 
-<div align="center">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeshwanth-k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeshwanthlinks@gmail.com) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jeshwanthk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jeshwanthk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jeshwanthk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Greeting -->
-</h1>
-<h2 align="center">❂ I am Jeshwanth K</h2>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jeshwanthk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h4 align="left">✨ I am currently pursuing a Bachelor's degree in Artificial Intelligence and Machine Learning, with a keen interest in strengthening my programming skills and exploring various fields within the IT industry. My academic and personal journey focuses on building a strong foundation in computer science while staying engaged with emerging technologies. I am passionate about continuous learning and innovation, aiming to apply my knowledge to solve real-world problems and adapt to the ever-evolving tech landscape.</h4>
+---
+[![](https://komarev.com/ghpvc/?username=jeshwanthk&icon=0&color=0)](https://visitcount.itsvg.in)
 
- <div align="center">
-<!-- Profile Views -->
-<a href="https://github.com/jeshwanthk" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=jeshwanthk&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
-       alt="Profile Views Badge" /></a>
-
-<!-- Total Stars with GitHub Logo -->
-<a href="https://github.com/jeshwanthk?tab=stars" target="_blank">
-  <img alt="Total Stars" title="Total stars on GitHub"
-       src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
-
-<!-- Followers with GitHub Logo -->
-<a href="https://github.com/jeshwanthk?tab=followers" target="_blank">
-  <img alt="Followers" title="Follow me on GitHub"
-       src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
-</a>
-
-</div>
-
-<img 
-    align="left" 
-    alt="coding-gif" 
-    width="300" 
-    src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"
-/>
-
-<!-- About Me -->
-<h3 align="left">💫 About Me</h3>
-
-<div style="font-family: 'SF Pro Display', 'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 16px; line-height: 1.6;">
-
-🌱 I am currently developing my programming skills.  
-💬 Skilled in programming languages such as **Java**, **Python**, and **SQL**.  
-🧠 Familiar with technologies like **Machine Learning**, **HTML**, and **CSS**.  
-🛠️ Tools I use include **Jupyter Notebook**, **VS Code**, **GitHub**, and **IntelliJ IDEA**.  
-⚡ Interested in fields such as **Data Science**, **Artificial Intelligence**, and **Machine Learning**.
-
-</div>
-
-<h3 style="text-align: center;">Connect with me:</h3>
-
-<div style="display: flex; justify-content: center; gap: 15px; align-items: center; margin-top: 10px;">
-  <a href="mailto:jeshwanthlinks@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/jeshwanth-k/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <!-- <a href="https://www.instagram.com/sivanesh_ravi/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram" />  
-  </a> -->
-</div>
-
-</div></h4>
-
-</div>
-<br/>
-
-<h3 align="center">🌱 Github Status</h3>
-
-<div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=jeshwanthk&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=jeshwanthk&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
-</div>
-
-<br/><br/>
-
-<!-- lang-->
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
-
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion,pycharm,eclipse" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,postman,bash,ubuntu,arch,java,idea,kubernetes" /><br>
-    <img src="https://skillicons.dev/icons?i=,discord,python,sklearn,opencv,tensorflow,pytorch,mysql,firebase," /><br>
-</div>
-
-
-<br/>
-
-<img align="" alt="Working on My Portfolio" height="310" width="1500"  src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
